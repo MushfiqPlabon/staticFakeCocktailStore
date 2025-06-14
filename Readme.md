@@ -1,4 +1,4 @@
-# Cocktail Explorer (SDT Track - SDP Course Week 02 Assignment)
+# Cocktail Bar (SDT Track - SDP Course Week 02 Assignment)
 
 This project was created as an assignment for the SDT track in Phitron's SDP course Week 02. It demonstrates the use of HTML, CSS (Bootstrap 5), and JavaScript to build a dynamic web application.
 
